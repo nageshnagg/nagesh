@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 18.558 s <<< FAILURE! - in TestSuite
+amazon.Amazonlogin.addtocart  Time elapsed: 5.396 s  <<< FAILURE!
+java.lang.IllegalArgumentException: Key Down / Up events only make sense for modifier keys.
+	at amazon.Amazonlogin.addtocart(Amazonlogin.java:80)
+
